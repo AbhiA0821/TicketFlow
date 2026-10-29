@@ -1,0 +1,81 @@
+complaint,category
+The application keeps crashing every time I open the analytics dashboard.,Technical
+I am getting a 500 internal server error when uploading user documents.,Technical
+The mobile app freezes on the splash screen on Android devices.,Technical
+Database connection timeout error when saving user profile changes.,Technical
+The page loads extremely slow and times out after 30 seconds.,Technical
+The website displays a 404 page not found error on the settings page.,Technical
+API endpoints are returning 502 bad gateway errors constantly.,Technical
+Software fails to install on Windows 11 with error code 0x80070005.,Technical
+The cloud sync feature is broken and not syncing files between devices.,Technical
+Video playback is stuttering and audio is completely out of sync.,Technical
+The system rebooted unexpectedly and the unsaved file got corrupted.,Technical
+The search bar does not return any results even for exact matches.,Technical
+The export to PDF function is broken and generates blank documents.,Technical
+Browser extension is crashing Chrome when opening multiple tabs.,Technical
+Getting an invalid SSL certificate error when accessing the web portal.,Technical
+The latest software update caused screen flickering and graphics distortion.,Technical
+Camera hardware not detected in the video meeting interface.,Technical
+Bluetooth device disconnects repeatedly during audio calls on desktop.,Technical
+Memory leak bug causing very high CPU usage and system freeze.,Technical
+Push notifications are not arriving on my smartphone after the update.,Technical
+I was charged twice for my subscription renewal this month.,Billing
+I requested a refund two weeks ago but have not received it yet.,Billing
+Why is there an unexpected maintenance fee on my latest monthly invoice?,Billing
+My credit card was debited but my plan has not been upgraded yet.,Billing
+I want to cancel my annual subscription and get a prorated refund.,Billing
+The discount promo code was not applied to my final checkout bill.,Billing
+Please send me an itemized tax invoice and receipt for my accounting.,Billing
+Payment failed multiple times with the message transaction declined.,Billing
+I was billed after I had already canceled my recurring membership.,Billing
+How do I update my billing address and credit card payment method?,Billing
+I was overcharged on the international currency conversion fee.,Billing
+Unable to download previous payment receipts and invoices from the portal.,Billing
+Auto-renewal payment was deducted without any prior reminder notification.,Billing
+Charged for extra user licenses that were removed from the account last week.,Billing
+Need clarification regarding an unknown recurring monthly charge on my bank statement.,Billing
+Payment gateway keeps giving transaction failed error during checkout.,Billing
+Received an overdue payment notice even though my bill was paid on time.,Billing
+The free trial ended and charged full price to my card without authorization.,Billing
+I need an immediate refund for the duplicate transaction processed yesterday.,Billing
+Bank transfer was completed but the balance is not reflecting in my wallet.,Billing
+I forgot my password and the reset link email never arrives in my inbox.,Account
+My account has been locked due to too many failed login attempts.,Account
+I want to change the primary email address linked to my personal account.,Account
+Unable to enable two-factor authentication on my new mobile device.,Account
+I suspect unauthorized login activity on my account from another location.,Account
+How can I permanently delete my account and remove all personal data?,Account
+Need to merge two existing accounts registered under different email addresses.,Account
+The verification code OTP sent via SMS is constantly expiring.,Account
+Profile picture and personal display name are not saving after updating.,Account
+Cannot log in with Google OAuth receiving unauthorized access error.,Account
+My account status shows suspended without any reason or explanation given.,Account
+I want to transfer account ownership and admin privileges to another member.,Account
+My active session expires immediately after logging in on the browser.,Account
+Cannot verify my identity with the uploaded government identification card.,Account
+Need to recover access to an old account whose phone number is inactive.,Account
+Security questions are not being accepted during the password recovery process.,Account
+I am locked out of my profile because I lost my authenticator app device.,Account
+My username is showing as anonymous after the latest system migration.,Account
+Please unlock my user profile so I can complete identity verification.,Account
+How do I revoke third-party app permissions connected to my user profile?,Account
+Customer support executive was very rude and unhelpful on the phone call.,Service
+I have been waiting for an agent on live chat for over 45 minutes.,Service
+My support ticket has been open for 10 days with no reply or status update.,Service
+The agent promised a callback yesterday but nobody contacted me at all.,Service
+Representative gave me completely incorrect information regarding refund policy.,Service
+Very disappointed with the slow response time from your helpdesk team.,Service
+Need assistance and guidance on how to get started with product onboarding.,Service
+Where can I find the official user manual and documentation for beginners?,Service
+The delivery executive was late and did not arrive during the scheduled slot.,Service
+Support staff closed my ticket without resolving the underlying problem.,Service
+Looking for general guidance on setting up team workspace rules and guidelines.,Service
+Appalling customer service experience at your regional support center.,Service
+I need someone from the support team to walk me through the basic features.,Service
+Transferred between four different departments with no helpful answer provided.,Service
+Customer helpline number is always busy and disconnects automatically.,Service
+Would like to submit feedback regarding helpful service received from the staff.,Service
+Nobody answered my inquiry email sent to the support desk last Monday.,Service
+Inquiry regarding business operating hours during the upcoming holiday season.,Service
+Automated chatbot is stuck in a loop and will not transfer to a human agent.,Service
+Unprofessional behavior by the technician during the scheduled on-site visit.,Service
